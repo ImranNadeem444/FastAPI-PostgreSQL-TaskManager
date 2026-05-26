@@ -210,8 +210,7 @@ http://127.0.0.1:8000/docs
 
 # Author
 
-**Israr Qayyum**  
-BS Computer Science Student  
-Backend & AI Enthusiast
+**Imran Nadeem**  
+Computer Science Student | Backend Developer | AI Enthusiast
 
 ---
