@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# VS Code Settings
+.vscode/
+
+# Alembic Cache
+alembic/__pycache__/
+
+# OS Files
+.DS_Store
+Thumbs.db
